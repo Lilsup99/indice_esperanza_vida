@@ -26,7 +26,7 @@ Establecer un análisis del impacto de los factores socioeconómicos en la esper
   
 - En países donde la `inflación` está sobre el 10% mensual son países NO aptos para inversión, ya que su población tiene, quizá, otras prioridades en las cuales ¨invertir¨.
 
-- Determinar la influencia del índice Gini en la esperanza de vida en cada país. El índice Gini mide la `desigualdad de ingresos` en una sociedad. Entre mayor desigualdad, mayor será el índice Gini, dependiendo de este índice, podemos definir que población de los países tienen la facilidad de acceder a un seguro de vida, (Tomese en cuenta género, raza, cultura).
+- Determinar la influencia del índice Gini en la esperanza de vida en cada país. El índice Gini mide la `desigualdad de ingresos` en una sociedad. Entre mayor desigualdad, mayor será el índice Gini, dependiendo de este índice, podemos definir que porcentaje de la población de los países tienen la facilidad de acceder a un seguro de vida, (Tomese en cuenta género, raza, cultura).
 
 -
 
