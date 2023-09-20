@@ -50,4 +50,4 @@ Este proyecto esta segmentando en 3 areas de trabajo:
 En el siguiente Diagrama se puede observar el flujo de trabajo ademas de cuales son las minimas tecnologias necesarias para alcanzar los objetivos del presente proyecto
 
 
-![](https://scontent.fmrd1-1.fna.fbcdn.net/v/t39.30808-6/379676347_10228484296239695_8422896897200100421_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=813123&_nc_ohc=apK37XjWYMwAX-V8bZe&_nc_ht=scontent.fmrd1-1.fna&oh=00_AfDR6WDiGI0EsfIUxuDPOHmROJEVz99X8zhjrXIyX3JXQg&oe=650E2B51)
+![Stack](https://scontent.fmrd1-1.fna.fbcdn.net/v/t39.30808-6/379676347_10228484296239695_8422896897200100421_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=813123&_nc_ohc=apK37XjWYMwAX-V8bZe&_nc_ht=scontent.fmrd1-1.fna&oh=00_AfDR6WDiGI0EsfIUxuDPOHmROJEVz99X8zhjrXIyX3JXQg&oe=650E2B51)
