@@ -34,13 +34,13 @@ Establecer un análisis del impacto de los factores socioeconómicos en la esper
 
 - Principalmente se determinará el volumen de oportunidades que surgen en un país de posible expansión.
 
--  La tasa de conversión debe tratar de superar o al menos ser equivalente al comportamiento actual de la empresa en el posible país de expansión.
+-Tasa de Precisión del Modelo.
 
--  Medir la cantidad de personas que están dispuestas a aceptar un seguro de vida.
+-ROI de la compañía de Seguros.
+  
+-Crecimiento de las inversiones.
 
--  La tasa de cancelación estima la variación en los contratos firmados con la aseguradora.
-
--  Riesgo de pérdida, El indicador de riesgo financiero es un KPI que se basa en datos históricos.
+- Tasa de conversion.
 
 
 ## *ALCANCE*
@@ -49,6 +49,8 @@ Producir un resultado acertado por medio de un Modelo de Machine Learning tomand
 
 
 ## *SOLUCIÓN DEL PROBLEMA*
+
+Se ofrece implementar un Modelo de Machine Learning para dar un reporte a la Aseguradora con datos reales y actuales, con el fin de garantizar que la expansión que está en proyección se logre con el menor riesgo posible, generando un perfil óptimo de posibles clientes bajo el analisis de criterios de tipo socio-economico de cada país en estudio.
 
 ### Organizacion y metodologias de trabajo.
 
