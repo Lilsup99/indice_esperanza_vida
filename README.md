@@ -34,11 +34,11 @@ Establecer un análisis del impacto de los factores socioeconómicos en la esper
 
 - Principalmente se determinará el volumen de oportunidades que surgen en un país de posible expansión.
 
--Tasa de Precisión del Modelo.
+- Tasa de Precisión del Modelo.
 
--ROI de la compañía de Seguros.
+- ROI de la compañía de Seguros.
   
--Crecimiento de las inversiones.
+- Crecimiento de las inversiones.
 
 - Tasa de conversion.
 
