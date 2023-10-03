@@ -56,3 +56,7 @@ clasifica en `0`, caso contrario se clasifica en `1`.
 - Inflacion / nivel de pobreza: Si el valor en la columna `Inflation, consumer prices (annual %)` es menor que 
 `7.5`(%), entonces el pais se clasifica en `0`, caso contrario, se clasifica en `1`.
 
+### Observacion
+
+Para asignacion de la variable objetivo se puede por ejemplo establecer que el registro cumpla con todas las 
+condiciones, confirmando que el valor sera 0, o tambien se puede tomar un numero menor al total de opciones, para el primer modelo entrenado se considero solo los registros que cumplen por lo minimo 4 condiciones. Ese valor de condiciones minimas a cumplir puede ser considerado un hiperparametro especifico para este modelo de Machine Learning.
