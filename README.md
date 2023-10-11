@@ -18,23 +18,54 @@ La expectativa de vida, es decir la edad promedio que la gente alcanza en un pa�
 Establecer un análisis del impacto de los factores socioeconómicos en la esperanza de vida en los diferentes países seleccionados (30), para ayudar a una aseguradora de vida a expandir su negocio en un nuevo mercado internacional.
 
 
-## *OBJETIVOS Y KPI´s ASOCIADOS*
+## *OBJETIVOS ESPECIFICOS*
 
--  `La edad` de la persona al momento de adquirir el seguro de vida debe rondar el 50% de la expectativa de vida para esa población; de esta manera la aseguradora tendrá clientes durante un periodo de tiempo más extenso y con ello más ganancia.
+-  Averiguar cuál de los países en estudio tienen la capacidad de adquirir un seguro de vida, a partir del estudio de indicadores bases como por ejemplo el acceso a posibilidades de obtener un empleo estable.
 
-- `Accesibilidad a la educación`, mientras más acceso a la educación tenga la población mayor será la facilidad de adquisición de un seguro de vida, si el 70% de la población tiene acceso a la educación universitaria, mayor será la probabilidad de que adquieran un seguro de vida.
+- Analizar profundamente cuestiones inherentes al estilo de vida de los posibles clientes como por ejemplo, el estado civil, la cantidad de hijos que tiene, si es extranjero o no, si tiene casa propia, si tiene vehiculo, etc.
   
-- En países donde la `inflación` está sobre el 10% mensual son países NO aptos para inversión, ya que su población tiene, quizá, otras prioridades en las cuales ¨invertir¨.
+- Analizar la situación financiera de los posible clientes, cosas como si solicita préstamos de dinero, si tiene deudas, actitud crediticia con instituciones financieras.
 
-- Determinar la influencia del índice Gini en la esperanza de vida en cada país. El índice Gini mide la `desigualdad de ingresos` en una sociedad. Entre mayor desigualdad, mayor será el índice Gini, dependiendo de este índice, podemos definir que porcentaje de la población de los países tienen la facilidad de acceder a un seguro de vida, (Tomese en cuenta género, raza, cultura).
+- Analizar la influencia que tiene el acceso a la educación (principalmente en el nivel Universitario).
 
--
+- Medir la pobreza del país en estudio, evidentemente en países que tiene un ingreso per cápita alto nos da referencia del nivel de bienestar de su población dándonos un resultado clave en el cual se muestran las posibilidades de adquisición de un seguro de vida que tienen sus habitantes.
 
+## *KPIS ASOCIADOS*
+
+- Principalmente se determinará el volumen de oportunidades que surgen en un país de posible expansión.
+
+- Tasa de Precisión del Modelo.
+
+- ROI de la compañía de Seguros.
+  
+- Crecimiento de las inversiones.
+
+- Tasa de conversion.
 
 
 ## *ALCANCE*
 
-Teniendo en cuenta todos los puntos anteriores, si, en `un año` la inversión es retornada y tiene sus respectivas ganancias, entonces el modelo de negocio estará correctamente ejecutado.
+Producir un resultado acertado por medio de un Modelo de Machine Learning tomando en consideración todos los puntos anteriores, y si en un año la ganancia de la inversión es retornada podremos deducir que el estudio de los datos se estuvo ejecutando de manera correcta, vale la pena destacar que se tomarán en cuenta medidas ya existentes dentro de la aseguradora y el comportamiento de las ganancias de los últimos años de desempeño dentro del ámbito empresarial.
 
 
 ## *SOLUCIÓN DEL PROBLEMA*
+
+Se ofrece implementar un Modelo de Machine Learning para dar un reporte a la Aseguradora con datos reales y actuales, con el fin de garantizar que la expansión que está en proyección se logre con el menor riesgo posible, generando un perfil óptimo de posibles clientes bajo el analisis de criterios de tipo socio-economico de cada país en estudio.
+
+### Organizacion y metodologias de trabajo.
+
+
+Este proyecto esta segmentando en 3 areas de trabajo:
+* Analisis de Datos
+* Ingenieria de Datos
+* Equipo de Machine Learning
+
+En el siguiente Diagrama se puede observar el flujo de trabajo ademas de cuales son las minimas tecnologias necesarias para alcanzar los objetivos del presente proyecto
+
+
+![Stack](https://github.com/Lilsup99/indice_esperanza_vida/blob/main/Stack%20Tecnologico/STACK.jpg?raw=true)
+
+
+## *DISCLAIMER*
+
+Este trabajo investigativo es con fines educacionales, el resultado arrojado por los productos producidos ofrece un análisis exploratorio de la data recolectada en bancos de datos mundiales y  no da referencia para que sea tomado como fundamento para hacer inversiones de capital de empresas en expansión.

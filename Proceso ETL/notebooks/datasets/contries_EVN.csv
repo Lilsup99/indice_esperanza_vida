@@ -1,0 +1,34 @@
+id,value,longitude,latitude,region,lendingType,incomeLevel,capitalCity
+ARG,Argentina,-58.4173,-34.6118,LCN,IBD,UMC,Buenos Aires
+AUS,Australia,149.129,-35.282,EAS,LNX,HIC,Canberra
+BOL,Bolivia,-66.1936,-13.9908,LCN,IBD,LMC,La Paz
+BRA,Brazil,-47.9292,-15.7801,LCN,IBD,UMC,Brasilia
+CAN,Canada,-75.6919,45.4215,NAC,LNX,HIC,Ottawa
+CHE,Switzerland,7.44821,46.948,ECS,LNX,HIC,Bern
+CHL,Chile,-70.6475,-33.475,LCN,IBD,HIC,Santiago
+CHN,China,116.286,40.0495,EAS,IBD,UMC,Beijing
+COL,Colombia,-74.082,4.60987,LCN,IBD,UMC,Bogota
+DEU,Germany,13.4115,52.5235,ECS,LNX,HIC,Berlin
+ECU,Ecuador,-78.5243,-0.229498,LCN,IBD,UMC,Quito
+EGY,"Egypt, Arab Rep.",31.2461,30.0982,MEA,IBD,LMC,Cairo
+ESP,Spain,-3.70327,40.4167,ECS,LNX,HIC,Madrid
+FRA,France,2.35097,48.8566,ECS,LNX,HIC,Paris
+GBR,United Kingdom,-0.126236,51.5002,ECS,LNX,HIC,London
+IND,India,77.225,28.6353,SAS,IBD,LMC,New Delhi
+ITA,Italy,12.4823,41.8955,ECS,LNX,HIC,Rome
+JPN,Japan,139.77,35.67,EAS,LNX,HIC,Tokyo
+KOR,"Korea, Rep.",126.957,37.5323,EAS,LNX,HIC,Seoul
+LUX,Luxembourg,6.1296,49.61,ECS,LNX,HIC,Luxembourg
+MEX,Mexico,-99.1276,19.427,LCN,IBD,UMC,Mexico City
+NOR,Norway,10.7387,59.9138,ECS,LNX,HIC,Oslo
+PER,Peru,-77.0465,-12.0931,LCN,IBD,UMC,Lima
+PHL,Philippines,121.035,14.5515,EAS,IBD,LMC,Manila
+PRT,Portugal,-9.13552,38.7072,ECS,LNX,HIC,Lisbon
+PRY,Paraguay,-57.6362,-25.3005,LCN,IBD,UMC,Asuncion
+RUS,Russian Federation,37.6176,55.7558,ECS,IBD,UMC,Moscow
+SLV,El Salvador,-89.2073,13.7034,LCN,IBD,UMC,San Salvador
+SWE,Sweden,18.0645,59.3327,ECS,LNX,HIC,Stockholm
+URY,Uruguay,-56.0675,-34.8941,LCN,IBD,HIC,Montevideo
+USA,United States,-77.032,38.8895,NAC,LNX,HIC,Washington D.C.
+VEN,"Venezuela, RB",-69.8371,9.08165,LCN,IBD,INX,Caracas
+ZAF,South Africa,28.1871,-25.746,SSF,IBD,UMC,Pretoria
