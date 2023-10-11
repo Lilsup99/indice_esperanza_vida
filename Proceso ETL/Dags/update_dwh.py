@@ -76,7 +76,7 @@ def transform_data(data_path, data_output_path):
     # Cambiar tipo de datos de columna "year"
     df['year'] = df['year'].astype('int')
     # Eliminar filas donde el año (year) sea anterior a 1990
-    df.drop(df[(df['year'] < 1990)].index, inplace=True
+    df.drop(df[(df['year'] < 1990)].index, inplace=True)
 
     # Crear y guardar archivo csv de respaldo 
     df.to_csv(data_output_path, encoding='utf-8',index=False)
